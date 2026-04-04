@@ -1,4 +1,4 @@
-\## VBUtilities (EN)
+\# VBUtilities (EN)
 
 
 |Component|Description|
@@ -12,7 +12,7 @@
 
 \---
 
-\## VBUtilities (RU)
+\# VBUtilities (RU)
 
 |Компонент|Описание|
 |-|-|
