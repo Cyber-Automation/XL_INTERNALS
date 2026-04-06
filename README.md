@@ -94,8 +94,6 @@ See [LICENSE](./LICENSE).
 
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #ff6b6b, #4ecdc4); margin: 20px 0;">
 
-# 
-
 # XL\_INTERNALS (RU)
 
 Экосистема VBA-компонентов для Microsoft Excel и Office.  
