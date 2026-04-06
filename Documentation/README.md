@@ -12,10 +12,9 @@ Engineering division. Develops toolkits, guides and scripts for practical integr
 
 Research division. Specializes in identifying mechanisms that may be used for unethical purposes, and developing dual-use software and scripts to demonstrate these mechanisms and methods of protection against them.
 
-\---
-
 > Navigate to the corresponding division on \[script-coding.ru](https://script-coding.ru) for detailed documentation, usage examples and release notes.
 
+\---
 
 # Документация (RU)
 
@@ -30,8 +29,6 @@ Research division. Specializes in identifying mechanisms that may be used for un
 ### `DarkSec_Project`
 
 Исследовательское подразделение. Специализируется на выявлении механизмов, которые могут быть использованы в неэтичных целях, а также разработке ПО и скриптов с двойным назначением для демонстрации этих механизмов и способов защиты от них.
-
-\---
 
 > Подробная документация, примеры использования и описание релизов доступны в разделе (https://script-coding.ru) соответствующего подразделения.
 
