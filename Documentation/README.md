@@ -15,7 +15,6 @@ Research division. Specializes in identifying mechanisms that may be used for un
 > Navigate to the corresponding division on \[script-coding.ru](https://script-coding.ru) for detailed documentation, usage examples and release notes.
 
 \---
-
 # Документация (RU)
 
 Полная документация доступна на форуме проекта: [script-coding.ru](https://script-coding.ru)
