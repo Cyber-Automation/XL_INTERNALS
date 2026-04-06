@@ -5,8 +5,6 @@ No external dependencies. Windows only (x32/x64).
 
 📖 Documentation: [script-coding.ru](https://script-coding.ru)
 
-\---
-
 ## Repository Structure
 
 ```
@@ -19,8 +17,6 @@ LICENSE
 README.md
 ```
 
-\---
-
 ## 01 · VBUtilities
 
 |Component|Description|
@@ -31,8 +27,6 @@ README.md
 |VBUtil\_Information|Hardware and system configuration inspector|
 |VBUtil\_MediaPlayer|Audio playback inside Excel, no third-party software|
 |VBUtil\_XFormExcel|Framework for standalone GUI applications with hidden Excel interface|
-
-\---
 
 ## 02 · Developer Kits
 
@@ -52,8 +46,6 @@ Object model access is set programmatically on the first call to any public func
 |VBD\_Kit\_UnitTest\_Framework|Unit testing framework for VBA|
 |VBD\_Kit\_WMI|System information via WMI|
 
-\---
-
 ## 03 · Background Services
 
 Demonstrations of potentially harmful VBA capabilities.  
@@ -69,8 +61,6 @@ No working exploits are included. Each module contains detection and mitigation 
 |modSDI\_ShutDown|Shutdown/restart interception concept|
 |modSDI\_SystemNotifier|Background native Windows notification system|
 
-\---
-
 ## 04 · Other Components
 
 |Component|Description|
@@ -78,15 +68,11 @@ No working exploits are included. Each module contains detection and mitigation 
 |modProc\_ChangeVBETheme|Programmatic VBE color theme switching|
 |modProc\_QuickFileSearch|File search via WinAPI|
 
-\---
-
 ## Requirements
 
 * Excel 2016 or later
 * Windows 10 / 11
 * Office x32 or x64
-
-\---
 
 ## License
 
@@ -101,8 +87,6 @@ See [LICENSE](./LICENSE).
 
 📖 Документация: [script-coding.ru](https://script-coding.ru)
 
-\---
-
 ## Структура репозитория
 
 ```
@@ -115,8 +99,6 @@ LICENSE
 README.md
 ```
 
-\---
-
 ## 01 · VBUtilities
 
 |Компонент|Описание|
@@ -127,8 +109,6 @@ README.md
 |VBUtil\_Information|Информация об железе и конфигурации системы|
 |VBUtil\_MediaPlayer|Воспроизведение аудио внутри Excel без сторонних программ|
 |VBUtil\_XFormExcel|Фреймворк для standalone GUI-приложений с скрытым интерфейсом Excel|
-
-\---
 
 ## 02 · Developer Kits
 
@@ -148,8 +128,6 @@ README.md
 |VBD\_Kit\_UnitTest\_Framework|Фреймворк модульного тестирования для VBA|
 |VBD\_Kit\_WMI|Информация о системе через WMI|
 
-\---
-
 ## 03 · Background Services
 
 Демонстрации потенциально опасных возможностей VBA.  
@@ -165,8 +143,6 @@ README.md
 |modSDI\_ShutDown|Концепция перехвата выключения / перезагрузки|
 |modSDI\_SystemNotifier|Фоновая система нативных уведомлений Windows|
 
-\---
-
 ## 04 · Other Components
 
 |Компонент|Описание|
@@ -174,15 +150,11 @@ README.md
 |modProc\_ChangeVBETheme|Программная смена цветовой схемы VBE|
 |modProc\_QuickFileSearch|Быстрый поиск файлов через WinAPI|
 
-\---
-
 ## Требования
 
 * Excel 2016 и новее
 * Windows 10 / 11
 * Office x32 или x64
-
-\---
 
 ## Лицензия
 
