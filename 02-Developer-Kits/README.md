@@ -16,7 +16,7 @@ Object model access is set programmatically on the first call to any public func
 | VBD_Kit_UnitTest_Framework | Unit testing framework for VBA                          |
 | VBD_Kit_WMI                 | System information via WMI                              |
 
-\---
+<hr style="border: none; height: 2px; background: linear-gradient(to right, #ff6b6b, #4ecdc4); margin: 20px 0;">
 
 # Developer Kits (RU)
 
