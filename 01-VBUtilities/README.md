@@ -10,7 +10,7 @@
 |VBUtil_MediaPlayer|Audio playback inside Excel, no third-party software|
 |VBUtil_XFormExcel|Framework for standalone GUI applications with hidden Excel interface|
 
-\---
+<hr style="border: none; height: 2px; background: linear-gradient(to right, #ff6b6b, #4ecdc4); margin: 20px 0;">
 
 # VBUtilities (RU)
 
