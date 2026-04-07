@@ -12,7 +12,7 @@ Engineering division. Develops toolkits, guides and scripts for practical integr
 
 Research division. Specializes in identifying mechanisms that may be used for unethical purposes, and developing dual-use software and scripts to demonstrate these mechanisms and methods of protection against them.
 
-> Navigate to the corresponding division on \[script-coding.ru](https://script-coding.ru) for detailed documentation, usage examples and release notes.
+> Navigate to the corresponding division on (https://script-coding.ru) for detailed documentation, usage examples and release notes.
 
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #ff6b6b, #4ecdc4); margin: 20px 0;">
 
