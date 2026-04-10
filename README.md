@@ -19,14 +19,14 @@ README.md
 
 ## 01 · VBUtilities
 
-|-||Utility|Description|
-|-||-|-|
-|-||VBUtil\_RAT|Remote administration system; isolated execution subsystems, custom engines and services|
-|-||VBUtil\_ExcelServicesManager|SDI Excel process scheduler|
-|-||VBUtil\_FileEncryptor|File encryption GUI|
-|-||VBUtil\_Information|Hardware and system configuration inspector|
-|-||VBUtil\_MediaPlayer|Audio playback inside Excel, no third-party software|
-|-||VBUtil\_XFormExcel|Framework for standalone GUI applications with hidden Excel interface|
+|-|Utility|Description|
+|-|-|-|
+|-|VBUtil\_RAT|Remote administration system; isolated execution subsystems, custom engines and services|
+|-|VBUtil\_ExcelServicesManager|SDI Excel process scheduler|
+|-|VBUtil\_FileEncryptor|File encryption GUI|
+|-|VBUtil\_Information|Hardware and system configuration inspector|
+|-|VBUtil\_MediaPlayer|Audio playback inside Excel, no third-party software|
+|-|VBUtil\_XFormExcel|Framework for standalone GUI applications with hidden Excel interface|
 
 ## 02 · Developer Kits
 
