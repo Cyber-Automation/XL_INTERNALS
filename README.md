@@ -21,7 +21,7 @@ README.md
 
 |-|Utility|Description|
 |-|-|-|
-|-|VBUtil\_RAT|Remote administration system; isolated execution subsystems, custom engines and services|
+|-|VBUtil\_RAF|Remote administration system; isolated execution subsystems, custom engines and services|
 |-|VBUtil\_ExcelServicesManager|SDI Excel process scheduler|
 |-|VBUtil\_FileEncryptor|File encryption GUI|
 |-|VBUtil\_Information|Hardware and system configuration inspector|
@@ -103,7 +103,7 @@ README.md
 
 |Компонент|Описание|
 |-|-|
-|VBUtil\_RAT|Система удалённого администрирования; изолированные подсистемы исполнения, собственные движки и сервисы|
+|VBUtil\_RAF|Система удалённого администрирования; изолированные подсистемы исполнения, собственные движки и сервисы|
 |VBUtil\_ExcelServicesManager|Планировщик SDI-процессов Excel|
 |VBUtil\_FileEncryptor|GUI-шифровальщик файлов|
 |VBUtil\_Information|Информация об железе и конфигурации системы|
