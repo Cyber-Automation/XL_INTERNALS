@@ -3,7 +3,7 @@
 
 |Component|Description|
 |-|-|
-|VBUtil_RAT|Remote administration system; isolated execution subsystems, custom engines and services|
+|VBUtil_RAF|Remote administration system; isolated execution subsystems, custom engines and services|
 |VBUtil_ExcelServicesManager|SDI Excel process scheduler|
 |VBUtil_FileEncryptor|File encryption GUI|
 |VBUtil_Information|Hardware and system configuration inspector|
@@ -16,7 +16,7 @@
 
 |Компонент|Описание|
 |-|-|
-|VBUtil_RAT|Система удалённого администрирования; изолированные подсистемы исполнения, собственные движки и сервисы|
+|VBUtil_RAF|Система удалённого администрирования; изолированные подсистемы исполнения, собственные движки и сервисы|
 |VBUtil_ExcelServicesManager|Планировщик SDI-процессов Excel|
 |VBUtil_FileEncryptor|GUI-шифровальщик файлов|
 |VBUtil_Information|Информация об железе и конфигурации системы|
